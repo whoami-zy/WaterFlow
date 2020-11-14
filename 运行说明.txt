@@ -1,0 +1,26 @@
+程序运行说明：
+    初赛复赛数据已经按照文件夹分类放置代码同目录下，可以选择运行notebook文件或者py文件。如果需要替换数据，请主办方将初赛复赛数据放置对应的文件目录下。
+    1. 使用pycharm打开代码目录，直接右键SubCodeNoteBook.py文件，点击运行，就能直接在本地同目录下生成结果文件“submit_result_pyfile.csv”结果文件。
+       代码中存在相关注释。或者Linux直接使用 ”python SubCodeNoteBook.py“ 进行运行
+
+代码运行环境：环境及程序包及版本说明。Anaconda4.5.11
+    win10 + python3.7.0 (default, Jun 28 2018, 08:04:48) [MSC v.1912 64 bit (AMD64)]
+    scipy version:  1.4.1
+    pandas version:  1.1.1
+    numpy version:  1.18.5
+    sklearn version:  0.23.2
+    lightgbm version:  2.3.1
+
+文件列表说明：
+    决赛：决赛数据文件夹
+    初赛：初赛数据文件夹
+    PackageVersionPrint.py  打印python版本及相关程序库版本
+    SubCodeNoteBook.html  可直接使用浏览器查看的代码html结果文件
+    SubCodeNoteBook.ipynb  可使用jupyter notebook运行的notebook文件
+    SubCodeNoteBook.py  可运行的py文件
+    submission_sample.csv  提交样例文件
+    submit_result_notebook.csv  notebook文件生成的可提交结果
+    submit_result_pyfile.csv  py文件生成的可提交结果
+
+
+联系办法： 姓名：张勇  电话：18111634249  QQ: 2642101422
